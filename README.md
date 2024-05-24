@@ -1,4 +1,4 @@
-# Rust out-of-tree module
+# Rust-out-of-tree-module
 
 This is a basic template for an out-of-tree Linux kernel module written in Rust.
 
